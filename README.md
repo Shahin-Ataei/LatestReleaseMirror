@@ -182,19 +182,33 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="hiddify--hiddify-manager"></div>
+
+### hiddify--Hiddify-Manager
+
+🔗 [source](https://github.com/hiddify/Hiddify-Manager) – [<code><small>v12.3.0</small></code>](https://github.com/hiddify/Hiddify-Manager/releases/tag/v12.3.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `hiddify-config.zip` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Shahin-Ataei/LatestReleaseMirror/main/releases/hiddify/Hiddify-Manager/hiddify-config.zip) |
+| `hiddify-manager.zip` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Shahin-Ataei/LatestReleaseMirror/main/releases/hiddify/Hiddify-Manager/hiddify-manager.zip) |
+| `hiddify-server.zip` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Shahin-Ataei/LatestReleaseMirror/main/releases/hiddify/Hiddify-Manager/hiddify-server.zip) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.9</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.9)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.10</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.10)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.9.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Shahin-Ataei/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.9.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.9.apk` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Shahin-Ataei/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.9.apk) |
-| `mhrv-rs-android-universal-v1.9.9.apk` | 39.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Shahin-Ataei/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.9.apk) |
-| `mhrv-rs-android-x86-v1.9.9.apk` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Shahin-Ataei/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.9.apk) |
-| `mhrv-rs-android-x86_64-v1.9.9.apk` | 19.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Shahin-Ataei/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.9.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.10.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Shahin-Ataei/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.10.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.10.apk` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Shahin-Ataei/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.10.apk) |
+| `mhrv-rs-android-universal-v1.9.10.apk` | 39.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Shahin-Ataei/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.10.apk) |
+| `mhrv-rs-android-x86-v1.9.10.apk` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Shahin-Ataei/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.10.apk) |
+| `mhrv-rs-android-x86_64-v1.9.10.apk` | 19.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Shahin-Ataei/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.10.apk) |
 | `mhrv-rs-linux-amd64.tar.gz` | 8.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Shahin-Ataei/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
 | `mhrv-rs-linux-arm64.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Shahin-Ataei/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Shahin-Ataei/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
