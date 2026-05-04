@@ -1,3 +1,4 @@
 therealaleph/MasterHttpRelayVPN-RUST
+hiddify/Hiddify-Manager
 SagerNet/sing-box|windows-amd64
 KaringX/karing|\.exe
